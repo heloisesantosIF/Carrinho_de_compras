@@ -126,6 +126,11 @@ aside{
     width: 0vw;
     overflow-x: hidden;
     font-family: 'PlayFair Display',  Helvetica, Arial;
+    transition: all ease 0.2s;
+}
+
+aside.show{
+  width: 30vw;
 }
 
 .cart-area{

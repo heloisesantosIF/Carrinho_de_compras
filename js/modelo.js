@@ -4,7 +4,7 @@ let modeloJson = [
       name: 'O Amor não é Óbvio',
       img: 'img/livro1.jpeg',
       price: 31.90,
-      sizes: ['malha', 'algodão', 'dry'],
+      sizes: ['', '', ''],
       description: 'Autor(a): Elayne Baeta',
     },
     {
@@ -12,7 +12,7 @@ let modeloJson = [
       name: 'Última Parada',
       img: 'img/livro2.jpeg',
       price: 55.0,
-      sizes: ['algodão', 'malha', 'dry'],
+      sizes: ['', '', ''],
       description: 'Autor(a): Casey McQuiston',
     },
     {
@@ -20,7 +20,7 @@ let modeloJson = [
       name: 'Garota do Mar',
       img: 'img/livro3.png',
       price: 50.63,
-      sizes: ['dry', 'malha', 'algodão'],
+      sizes: ['', '', ''],
       description: 'Autor(a): Molly Knox Ostertag',
     },
     {
@@ -28,7 +28,7 @@ let modeloJson = [
       name: 'Eu e Esse Meu Coração',
       img: 'img/livro4.png',
       price: 31.44,
-      sizes: ['algodão', 'malha', 'dry'],
+      sizes: ['', '', ''],
       description: 'Autor(a): C.C Hunter',
     },
     {
@@ -36,7 +36,7 @@ let modeloJson = [
       name: 'Conectadas',
       img: 'img/livro5.png',
       price: 20.00,
-      sizes: ['malha', 'algodão', 'dry'],
+      sizes: ['', '', ''],
       description: 'Autor(a): Clara Alves',
     },
     {
@@ -44,7 +44,7 @@ let modeloJson = [
       name: 'Ela fica com a Garota',
       img: 'img/livro6.png',
       price: 33.16,
-      sizes: ['malha', 'dry', 'algodão'],
+      sizes: ['', '', ''],
       description: 'Autor(a): Rachael Lippincott, Alyson Derrick',
     },
   ];
